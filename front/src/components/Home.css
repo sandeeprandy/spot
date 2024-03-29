@@ -1,0 +1,12 @@
+.profile-link {
+  margin-top: 20px;
+}
+
+.profile-link a {
+  color: #007bff; 
+  text-decoration: none; 
+}
+
+.profile-link a:hover {
+  text-decoration: underline; 
+}
